@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-eye of sas
+my silly drawing
 </p>
