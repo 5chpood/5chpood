@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-my silly drawing
+true art is what you are looking at right now #TRUTHNUKE
 </p>
