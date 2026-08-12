@@ -7,6 +7,6 @@
 </p>
 
 <p align="center">
-the sillies
+^^^ me and bro ^^^
 </p>
 
