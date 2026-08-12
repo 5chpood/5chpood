@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
-^^^ me and bro ^^^
+^
+</p>
+
+<p align="center">
+me and bro
 </p>
 
