@@ -1,20 +1,22 @@
+
 <p align="center">
-𓆩 𖤓 𓆪
+lelele
+
 </p> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=winebullets&color=000000&style=flat-square&title=gladiators&label=gladiators" alt="gladiators" />
+  <img src="https://komarev.com/ghpvc/?username=winebullets&color=000000&style=flat-square&title=engineers&label=engineers" alt="engineers" />
 </p>
 
 <p align="center">
-  <img width="400" height="450" alt="G4ZAO6xXMAAnLiZ" src="https://github.com/user-attachments/assets/be3cb396-2231-4f80-9844-e3aa493954a9" />
+  <img width="583" height="428" alt="IMG_7172" src="https://github.com/user-attachments/assets/e69331c1-6387-4a49-bab4-5a72af543735" />
 </p>
 
 <p align="center">
-^
+#thomsprpilled
 </p>
 
 <p align="center">
-me and bro
+thomsprmaxxing ughhhh
 </p>
 
